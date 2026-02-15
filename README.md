@@ -37,3 +37,5 @@
  *   `mapper`: Configurações de mapeamento (Dozer).
  *   `config`: Configurações gerais (Web, Swagger, etc).
  *   `exception`: Tratamento global de exceções.
+
+# Projeto ainda em construção...
